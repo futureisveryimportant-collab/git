@@ -1,5 +1,5 @@
 fastapi
-‎uvicorn
-‎yt-dlp
-‎httpx
+uvicorn
+yt-dlp
+httpx
 ‎
